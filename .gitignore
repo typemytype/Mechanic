@@ -1,2 +1,3 @@
 *.pyc
 src/tmp/logs
+.DS_Store
